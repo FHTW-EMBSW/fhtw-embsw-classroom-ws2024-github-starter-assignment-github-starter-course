@@ -9,3 +9,4 @@ include (Catch)
 
 add_subdirectory(FirstExample)
 
+add_subdirectory(Greeting)
